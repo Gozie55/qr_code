@@ -1,0 +1,19 @@
+body {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: center;
+        background: rgb(221, 221, 224);
+    }
+    
+    #qr-head {
+        width: 300px;
+        margin: 150px auto;
+        padding: 10px;
+        border-radius: 10px;
+        background: white ;
+    }
+    
+    #qr-image {
+        height: 300px;
+        width: 300px;
+        border-radius: 10px;
+    }
